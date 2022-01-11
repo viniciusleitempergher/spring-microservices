@@ -3,3 +3,6 @@ http://localhost:8000/currency-exchange/from/USD/to/BRL
 
 Currency Conversion Service
 http://localhost:8100/currency-conversion/from/USD/to/BRL/quantity/10
+
+Eureka
+http://localhost:8761/
